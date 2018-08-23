@@ -1,2 +1,2 @@
 # Insurance-Approval-Prediction
-Cogitativo
+Please see the [Jupyter Notebook](./notebook/Approval-Prediction.ipynb)
